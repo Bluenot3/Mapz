@@ -1,0 +1,6 @@
+{
+  "name": "NeonTrail Generative Map",
+  "description": "GTA 6 style highly stylized generative trail graphics app. Uses Strava data or Address inputs to generate cinematic map views and AI metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
